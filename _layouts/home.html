@@ -1,0 +1,26 @@
+--- 
+layout: default 
+---
+<div class="row">
+  <div class="col-md-9">
+    <div class="list-group">
+      {% for post in site.posts %} {% assign date_format = site.minima.date_format | default: "%Y-%m-%d %H:%M:%S" %}
+      <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-1">{{ post.title | escape }}</h5>
+          <small>{{ post.date | date: date_format }}</small>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card" style="width: 20rem;">
+      <img class="card-img-top" width="100%" src="assets/img/1501835785816.png" alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">脚本娃娃-桃花岛</h4>
+        <p class="card-text">这是最大的一个群，其它所有群全部满了。</p>
+      </div>
+    </div>
+  </div>
+</div>

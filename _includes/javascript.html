@@ -1,0 +1,10 @@
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script src="{{ "/assets/css/bootstrap-4.0.0-alpha.6/js/bootstrap.min.js" | relative_url }}"></script>
+
+<!--Please set your own GA code in _config.yml, DON'T USE MY GA CODE!-->
+<!--请在_config.yml配置文件里面设置你自己的GA代码，不要用我的代码，那样流量全部算我的！-->
+{% if jekyll.environment == 'production' and site.google_analytics %}
+{% include google-analytics.html %}
+{% endif %}
+
