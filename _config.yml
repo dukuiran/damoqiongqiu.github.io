@@ -44,3 +44,5 @@ plugins_dir:
 disqus:
   shortname: damoqiongqiu
 
+
+theme: jekyll-theme-tactile
