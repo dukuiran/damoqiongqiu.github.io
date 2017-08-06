@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "三大前端框架AVR的真实流行程度到底怎么样"
+author: "大漠穷秋"
+comments: true
+date:   2017-07-08 22:19:08 +0800
+category: "web前端"
+published: true
+excerpt: 三大前端框架AVR的真实流行程度到底怎么样
+---
+
+经常有朋友来追问，到底有哪些企业正在使用Angular？搞得我有点儿烦了。
+
+我想说的是，你们这些人获取数据的能力太差了，我很想给你们比个手势：
+
+<img src="{{ "/assets/img/2017-07-09/FKU.jpg" | relative_url }}" alt="示例" width="320" class="img-thumbnail rounded"/>
+
+再说，别人用什么框架关你啥事儿？不跟风能死？噢对，你可能是在担忧跳槽的问题。如果从这个角度考虑的话，我就帮你一下吧。
+
+我教你两招，第一招用来研究全球范围内的趋势，第二招用来获取国内的状况。
+
+**全球状况---Google Trends**
+
+对于全球的状况，当然要依靠Google Trends了。打开<a href="https://trends.google.com/trends/" target="_blank">https://trends.google.com/trends/</a> ，对比3个关键词：Angular、React、Vue，你会得到以下结果：
+
+<img src="{{ "/assets/img/2017-07-09/trends-1.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
+
+这是全球范围内3大前端框架搜索热度趋势图，Angular是最高的，看到了吗？
+
+<img src="{{ "/assets/img/2017-07-09/trends-2.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
+
+这是Angular在全球搜索热度分布，在印度的受欢迎程度很高啊，不知道是啥原因。
+
+注意自己调整关键词和行业类别，有一些关键词可能会在多个行业里面都有使用的。还有一些比较权威的机构会发布一些统计报告，比如我之前给你们发过的stackoverflow发布的一份极其详细的分析报告<a href="https://insights.stackoverflow.com/survey/2017" target="_blank">https://insights.stackoverflow.com/survey/2017</a>，还有github自己的一个趋势数据统计页面<a href="https://github.com/trending" target="_blank">https://github.com/trending</a> 
+
+你自己慢慢玩吧，自己去探索，得出你自己的答案。
+
+**国内情况---利用招聘网站**
+
+对于国内的状况，要拿到确切的统计数据比较难一些，但并不是没有可能。有一个很重要的渠道可以帮助你掌握国内企业的技术动向，那就是招聘网站。以51job为例，你在上面搜索Angular这个关键字，然后把地区限定在北京，你会获得这样的结果：
+
+<img src="{{ "/assets/img/2017-07-09/51job.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
+
+然后你自己调整搜索范围，把北上广深、杭州、成都、大连、厦门、南京等几个IT产业比较发达的城市都搜一搜，自己算一算，就心里有数了。
+
+对于Angular来说，BAT等一线大厂全部有招聘需求，当然华为、中兴、联想等二线大厂也有，锤子科技、小密圈等创业企业也赫然在列，细节你自己去慢慢研究吧！如果你觉得一家招聘网站的数据不够精确，你可以加上拉钩等其它网站。
+
+伙计，在你舔着个脸拿那些鸡毛小问题来问我之前，拜托能不能先过一下你自己的脑子？
+
+<img src="{{ "/assets/img/2017-07-09/FKU.jpg" | relative_url }}" alt="示例" width="320" class="img-thumbnail rounded"/>
+
+（内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://damoqiongqiu.github.io/donate/index.html">给大漠捐助</a>）
