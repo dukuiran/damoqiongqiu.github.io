@@ -8,13 +8,13 @@ permalink: /about/
 
 **我出版过的书籍**
 
-<img src="{{ "/assets/img/books/ext.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+<img src="{{ "/assets/img/books/ext.png" | relative_url }}" alt="ext" width="360" class="img-thumbnail rounded"/>
 
-<img src="{{ "/assets/img/books/as3.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+<img src="{{ "/assets/img/books/as3.png" | relative_url }}" alt="as3" width="360" class="img-thumbnail rounded"/>
 
-<img src="{{ "/assets/img/books/ng1.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+<img src="{{ "/assets/img/books/ng1.png" | relative_url }}" alt="ng1" width="360" class="img-thumbnail rounded"/>
 
-<img src="{{ "/assets/img/books/ng2.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+<img src="{{ "/assets/img/books/ng2.png" | relative_url }}" alt="ng2" width="360" class="img-thumbnail rounded"/>
 
 **想雇佣大漠**
 
@@ -31,6 +31,10 @@ permalink: /about/
 **演讲照片（部分）**
 
 <img src="{{ "/assets/img/angular-damo/29.jpg" | relative_url }} " alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
+
+<img src="{{ "/assets/img/angular-damo/30.jpg" | relative_url }} " alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
+
+<img src="{{ "/assets/img/angular-damo/31.jpg" | relative_url }} " alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
 
 <img src="{{ "/assets/img/angular-damo/28.jpg" | relative_url }} " alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
 
