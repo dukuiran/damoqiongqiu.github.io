@@ -26,7 +26,7 @@ ES6版本不算哦，我要你写ES5版本的。
 
 <img src="{{ "/assets/img/2017-08-07/kneel.jpg" | relative_url }}" alt="你是大爷" max-width="100%" class="img-thumbnail rounded"/>
 
-实际上，JavaScript里面充斥着大量这种莫名其妙的问题，消耗了大家非常多的时间。JavaScript这门语言一直以来为什么会表现得这么诡异呢？一定要看阮老师的这篇文章<a href="http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html" target="_blank">Javascript诞生记</a>，每次我都会它。
+实际上，JavaScript里面充斥着大量这种莫名其妙的问题，消耗了大家非常多的时间。JavaScript这门语言一直以来为什么会表现得这么诡异呢？一定要看阮老师的这篇文章<a href="http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html" target="_blank">Javascript诞生记</a>，每次我都会引用它。
 
 截个图看看TypeScript写出来的代码是什么样子吧，代码内容不重要，就看风格：
 
