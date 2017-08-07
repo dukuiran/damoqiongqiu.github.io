@@ -32,7 +32,9 @@ ES6版本不算哦，我要你写ES5版本的。
 
 <img src="{{ "/assets/img/2017-08-07/ts-example.png" | relative_url }}" alt="TypeScript代码案例" max-width="100%" class="img-thumbnail rounded"/>
 
-无论可读性、可维护性、上手的容易程度、写代码的速度，TS都非常明显地优于JS。
+你仔细看就会发现，平常用到的大部分东西在ES6里面都有了，并没有什么学习成本。
+
+而TS无论可读性、可维护性、上手的容易程度、写代码的速度，都非常明显地优于JS。
 
 所以，不要再听一些人在那里搞误导性的宣传了，说什么Angular里面的TypeScript会成为学习门槛，我认为完全相反，JavaScript才是学习门槛。
 
