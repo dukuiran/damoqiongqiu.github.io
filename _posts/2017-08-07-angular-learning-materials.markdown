@@ -22,7 +22,7 @@ Angular中文版官方网站：<a href="www.angular.cn" target="_blank">www.angu
 
 - Jigsaw：来自ZTE中兴通讯的一款Angular开源组件库，ZTE内部很多大项目都用的，目前外观比较丑一点，组件齐全。<a href="https://github.com/rdkmaster/jigsaw" target="_blank">https://github.com/rdkmaster/jigsaw</a>
 
-【阿里云的Zorro很快就要出来，Ant Design风格的，期待一下吧。】
+- 【阿里云的Zorro很快就要出来，Ant Design风格的，期待一下吧。】
 
 ### 开源项目类
 
@@ -34,7 +34,7 @@ Angular中文版官方网站：<a href="www.angular.cn" target="_blank">www.angu
 
 - JHipster：一个集成了SpringMVC的开源项目，从前端到后端都集成好的，Java开发者应该会喜欢它，<a href="https://jhipster.github.io/" target="_blank">https://jhipster.github.io/</a>
 
-github上面有大量的Angular开源项目，自己要学会搜索哦！
+- github上面有大量的Angular开源项目，自己要学会搜索哦！
 
 ### 视频教程类
 
@@ -48,10 +48,10 @@ Victor的Blog一定要看的，有很多优质内容：<a href="https://vsavkin.
 
 关于双向数据绑定原理的一些文章：
 
-<a href="http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html" target="_blank"></a>
+- <a href="http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html" target="_blank">http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html</a>
 
-<a href="http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html" target="_blank">http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html</a>
+- <a href="http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html" target="_blank">http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html</a>
 
-<a href="https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c" target="_blank">https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c</a>
+- <a href="https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c" target="_blank">https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c</a>
 
 到Medium上搜Angular，非常多的技术文章，这也是Angular项目组发布官方文章的地方。<a href="https://medium.com" target="_blank">https://medium.com</a>
