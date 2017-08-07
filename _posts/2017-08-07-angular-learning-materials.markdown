@@ -17,9 +17,9 @@ Angular中文版官方网站：www.angular.cn
 
 PrimeNG：这是我目前看到市面上做得最好的一款，免费的。https://github.com/primefaces/primeng ，内部有在线演示链接。
 
-ng2-bootstrap：bootstrap那一套外观看起来还行，但是组件代码写得可不咋滴，参考一下吧。
+ng2-bootstrap：bootstrap那一套外观看起来还行，但是组件代码写得可不咋滴，参考一下吧。https://ng-bootstrap.github.io/
 
-Jigsaw：来自ZTE中兴通讯的一款Angular开源组件库，ZTE内部很多大项目都用的，目前外观比较丑一点，组件齐全。
+Jigsaw：来自ZTE中兴通讯的一款Angular开源组件库，ZTE内部很多大项目都用的，目前外观比较丑一点，组件齐全。https://github.com/rdkmaster/jigsaw
 
 【阿里云的Zorro很快就要出来，Ant Design风格的，期待一下吧。】
 
