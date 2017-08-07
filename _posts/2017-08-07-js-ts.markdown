@@ -41,3 +41,7 @@ ES6版本不算哦，我要你写ES5版本的。
 学一点TypeScript吧，尤其是前端初学者，最多一个小时你就能写得很溜了！
 
 <a href="https://www.tslang.cn/" target="_blank">TypeScript官方中文网站</a>
+
+另外有VS Code这个神器，写TS很溜的：<a href="https://github.com/Microsoft/vscode" target="_blank">VS Code</a>。
+
+我不跟你扯那么多，你花10分钟自己试一把手感。
