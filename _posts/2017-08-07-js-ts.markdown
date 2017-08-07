@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "TS不难，JS才难"
+author: "大漠穷秋"
+comments: true
+date:   2017-08-07 08:40:55 +0800
+category: "web前端"
+published: true
+excerpt: TS不难，JS才难
+---
+朋友，会玩儿JavaScript多级继承吗？就像这样：
+
+<img src="{{ "/assets/img/2017-08-07/js-extends.png" | relative_url }}" alt="JS多级继承" max-width="100%" class="img-thumbnail rounded"/>
+
+ES6版本不算哦，我要你写ES5版本的。
+
+你要真能完完整整写出来，把方方面面的细节都考虑周全，比如多级继承里面的静态成员、方法重写之类的，我给你鞠躬，你是大哥：
+
+<img src="{{ "/assets/img/2017-08-07/big-brother.jpg" | relative_url }}" alt="你是大哥" max-width="100%" class="img-thumbnail rounded"/>
+
+如果真有兴趣研究的话，来看看这篇文章，他提供了：<a href="http://www.cnblogs.com/ayqy/p/4471638.html" target="_blank">6种JS继承的写法</a>
+
+我不知道你们怎么样，反正我TM记不住这么多种搞法，计算机和编程语言是用来为人类服务的，而不是让人类去将就机器，那叫反人类对不对？
+
+兄弟，知道JS里面的作用域问题吗？如果你能给初学者解释得清楚JS里面的作用域是什么，我TM给你跪下，你是大爷：
+
+<img src="{{ "/assets/img/2017-08-07/kneel.jpg" | relative_url }}" alt="你是大爷" max-width="100%" class="img-thumbnail rounded"/>
+
+实际上，JavaScript里面充斥着大量这种莫名其妙的问题，消耗了大家非常多的时间。JavaScript这门语言一直以来为什么会表现得这么诡异呢？一定要看阮老师的这篇文章<a href="http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html" target="_blank">Javascript诞生记</a>，每次我都会它。
+
+截个图看看TypeScript写出来的代码是什么样子吧，代码内容不重要，就看风格：
+
+<img src="{{ "/assets/img/2017-08-07/ts-example.png" | relative_url }}" alt="TypeScript代码案例" max-width="100%" class="img-thumbnail rounded"/>
+
+无论可读性、可维护性、上手的容易程度、写代码的速度，TS都非常明显地优于JS。
+
+所以，不要再听一些人在那里搞误导性的宣传了，说什么Angular里面的TypeScript会成为学习门槛，我认为完全相反，JavaScript才是学习门槛。
+
+学一点TypeScript吧，尤其是前端初学者，最多一个小时你就能写得很溜了！
+
+<a href="https://www.tslang.cn/" target="_blank">TypeScript官方中文网站</a>
