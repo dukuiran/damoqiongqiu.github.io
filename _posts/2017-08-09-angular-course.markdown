@@ -2,7 +2,7 @@
 layout: post
 title:  "大漠的收费Angular课程"
 author: "大漠穷秋"
-comments: true
+comments: false
 date:   2017-08-09 07:23:23 +0800
 category: "web前端"
 published: true
