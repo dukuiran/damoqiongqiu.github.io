@@ -23,9 +23,7 @@ excerpt: 大漠的收费Angular课程
 
 请扫描下面的二维码向我付款，**如果可以，请付款时在备注里面写上你的QQ号码**。付款完成后加我的助理小蘑菇的QQ 2156264551，把付款记录截图给她看就好了，她会接待你的。记得一定要加小蘑菇为好友，要不然发通知的时候发不到你。
 
-<img src="{{ "/assets/img/2017-08-09/wechat.jpg" | relative_url }}" alt="微信" max-width="100%" class="img-thumbnail rounded"/>
-
-<img src="{{ "/assets/img/2017-08-09/alipay.jpg" | relative_url }}" alt="支付宝" max-width="100%" class="img-thumbnail rounded"/>
+【已结束报名，请还没有加小蘑菇为好友的朋友赶紧添加。】
 
 <img src="{{ "/assets/img/111.jpg" | relative_url }}" alt="小蘑菇" max-width="100%" class="img-thumbnail rounded"/>
 
