@@ -18,6 +18,8 @@ Angular中文版官方网站：<a href="www.angular.cn" target="_blank">www.angu
 
 - PrimeNG：这是我目前看到市面上做得最好的一款，免费的。<a href="https://github.com/primefaces/primeng" target="_blank">https://github.com/primefaces/primeng</a> ，内部有在线演示链接。
 
+- 来自于VmWare的Angular组件库：https://vmware.github.io/clarity/documentation/modals
+
 - ng2-bootstrap：bootstrap那一套外观看起来还行，但是组件代码写得可不咋滴，参考一下吧。<a href="https://ng-bootstrap.github.io/" target="_blank">https://ng-bootstrap.github.io/</a>
 
 - Jigsaw：来自ZTE中兴通讯的一款Angular开源组件库，ZTE内部很多大项目都用的，目前外观比较丑一点，组件齐全。<a href="https://github.com/rdkmaster/jigsaw" target="_blank">https://github.com/rdkmaster/jigsaw</a>
