@@ -8,6 +8,8 @@ category: "web前端"
 published: true
 excerpt: NG1701课程说明
 ---
+很抱歉，人有点儿多，你们发的消息我都看到了，但是我不能一个一个去跟你们聊天儿，那样我就没时间干活儿了，所以写个总结帖放在这里。
+
 NG1701期的课程已经讲完3个小节，后面全部在<a href="https://www.cctalk.com/download" target="_blank">沪江网的CCTalk</a>上讲。
 
 <img src="{{ "/assets/img/2017-08-13/7.png" | relative_url }}" alt="CCTalk界面截图" max-width="100%" class="img-thumbnail rounded"/>
