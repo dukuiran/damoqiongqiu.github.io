@@ -5,7 +5,7 @@ author: "大漠穷秋"
 comments: false
 date:   2017-08-09 07:23:23 +0800
 category: "web前端"
-published: true
+published: false
 excerpt: 大漠的收费Angular课程
 ---
 **已结束报名，有几位朋友付了钱，但是还没有加小蘑菇为好友，请赶紧扫描下面的二维码添加一下。**
