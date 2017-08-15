@@ -37,7 +37,3 @@ CCTalk的缺点：讲课的人不能自己调节码率，它是自动适配的�
 <img src="{{ "/assets/img/2017-08-13/5.png" | relative_url }}" alt="5" max-width="100%" class="img-thumbnail rounded"/>
 
 怎么样，妥妥儿的。
-
-**再次提醒：还有几个之前付款的道友没有加小蘑菇，带快一点哦，马上第一遍都讲完了！**
-
-<img src="{{ "/assets/img/111.jpg" | relative_url }}" alt="小蘑菇" max-width="100%" class="img-thumbnail rounded"/>
