@@ -9,10 +9,10 @@ published: true
 excerpt: Angular优质学习资源收集
 ---
 
-Angular英文版官方网站：<a href="www.angular.io" target="_blank">www.angular.io</a>
+Angular英文版官方网站：<a href="http://www.angular.io" target="_blank">www.angular.io</a>
 
 
-Angular中文版官方网站：<a href="www.angular.cn" target="_blank">www.angular.cn</a>
+Angular中文版官方网站：<a href="http://www.angular.cn" target="_blank">www.angular.cn</a>
 
 ### 组件库类
 
