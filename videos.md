@@ -11,10 +11,17 @@ permalink: /videos/
     </li>
     <li class="list-group-item justify-content-between">
         <a href="http://id.tudou.com/damoqiongqiu" target="_blank">优酷-Angular新版本视频教程（国内用户，有广告）</a>
-        <span class="badge badge-default badge-pill">146K+</span>
+        <span class="badge badge-default badge-pill">156K+</span>
     </li>
     <li class="list-group-item justify-content-between">
         <a href="http://www.imooc.com/learn/156" target="_blank">慕课网AngularJS 1.x视频教程（老版本）</a>
         <span class="badge badge-default badge-pill">178K+</span>
+    </li>
+</div>
+
+<div class="list-group">
+    <li class="list-group-item justify-content-between list-group-item-success">
+        <a href="http://list.youku.com/albumlist/show/id_50945336.html" target="_blank">NgAir油管同步频道</a>
+        <span class="badge badge-default badge-pill">Init</span>
     </li>
 </div>
