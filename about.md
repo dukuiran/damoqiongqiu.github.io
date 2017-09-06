@@ -4,8 +4,6 @@ title: ""
 permalink: /about/
 ---
 
-<img src="{{ "/assets/img/angular-damo/BIO-Angular.jpg" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
-
 **我出版过的书籍**
 
 <img src="{{ "/assets/img/books/ext.png" | relative_url }}" alt="ext" style="max-width: 360px;" class="img-thumbnail rounded"/>
