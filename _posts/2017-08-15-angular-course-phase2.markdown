@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "NG1702-课程说明"
+title:  "NG1702课程说明"
 author: "大漠穷秋"
 comments: false
 date:   2017-08-15 14:44:48 +0800
 category: "web前端"
 published: true
-excerpt: NG1702-课程说明
+excerpt: NG1702课程说明
 ---
 <img src="{{ "/assets/img/2017-08-15/qr-code.png" | relative_url }}" alt="二维码" width="256" class="img-thumbnail rounded"/>
 
