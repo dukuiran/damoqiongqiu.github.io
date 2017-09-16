@@ -4,7 +4,7 @@ title:  "13-Jekyll集成lunr.js进行全文搜索"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-08 07:27:57 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 published: true
 excerpt: Jekyll集成lunr.js进行全文搜索
 ---

@@ -4,7 +4,7 @@ title:  "三大前端框架AVR的真实流行程度到底怎么样"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-08 22:19:08 +0800
-category: "web前端"
+category: "1-web"
 published: true
 excerpt: 三大前端框架AVR的真实流行程度到底怎么样
 ---

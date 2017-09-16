@@ -4,7 +4,7 @@ title:  "NG1701课程说明"
 author: "大漠穷秋"
 comments: false
 date:   2017-08-13 07:57:18 +0800
-category: "web前端"
+category: "1-web"
 published: true
 excerpt: NG1701课程说明
 ---

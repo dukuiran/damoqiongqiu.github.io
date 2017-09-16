@@ -4,7 +4,7 @@ title:  "我喜欢的电影"
 author: "大漠穷秋"
 comments: true
 date:   2017-09-15 22:03:48 +0800
-category: "非技术"
+category: "Non-Tech"
 published: true
 excerpt: 我喜欢的电影
 ---

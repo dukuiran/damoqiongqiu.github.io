@@ -4,7 +4,7 @@ title:  "Angular优质学习资源收集"
 author: "大漠穷秋"
 comments: true
 date:   2017-08-07 10:28:50 +0800
-category: "web前端"
+category: "1-web"
 published: true
 excerpt: Angular优质学习资源收集
 ---

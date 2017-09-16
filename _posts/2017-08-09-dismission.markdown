@@ -4,7 +4,7 @@ title:  "正式离职声明"
 author: "大漠穷秋"
 comments: true
 date:   2017-08-09 06:15:15 +0800
-category: "web前端"
+category: "1-web"
 published: false
 excerpt: 正式离职声明
 ---

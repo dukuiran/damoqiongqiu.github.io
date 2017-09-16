@@ -4,7 +4,7 @@ title:  "大漠的收费Angular课程NG1701期"
 author: "大漠穷秋"
 comments: false
 date:   2017-08-09 07:23:23 +0800
-category: "web前端"
+category: "1-web"
 published: false
 excerpt: 大漠的收费Angular课程
 ---

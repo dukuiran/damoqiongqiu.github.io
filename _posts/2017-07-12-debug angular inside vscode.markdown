@@ -4,7 +4,7 @@ title:  "VS Code 1.14发布，可以直接Debug Angular应用"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-12 21:37:10 +0800
-category: "web前端"
+category: "1-web"
 published: true
 excerpt: VS Code 1.14发布，可以直接Debug Angular应用
 ---

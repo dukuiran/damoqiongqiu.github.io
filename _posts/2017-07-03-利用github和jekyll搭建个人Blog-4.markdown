@@ -4,7 +4,7 @@ title:  "3-注册github账号并创建项目"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-03 08:54:29 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 excerpt: 如何注册github账号并创建仓库
 ---
 

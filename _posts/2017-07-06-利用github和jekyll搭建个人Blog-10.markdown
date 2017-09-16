@@ -4,7 +4,7 @@ title:  "9-用Bootstrap完全自己实现外观"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-06 08:28:53 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 published: true
 excerpt: 用Bootstrap完全自己实现外观
 ---

@@ -4,7 +4,7 @@ title:  "15-做好SEO让搜索引擎更好地索引你的站点"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-08 15:56:44 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 published: true
 excerpt: 做好SEO让搜索引擎更好地索引你的站点
 ---

@@ -4,7 +4,7 @@ title:  "12-为你的Jekyll站点添加分类"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-07 22:51:57 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 published: true
 excerpt: 为你的Jekyll站点添加分类
 ---

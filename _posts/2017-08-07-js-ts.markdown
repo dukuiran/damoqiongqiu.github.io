@@ -4,7 +4,7 @@ title:  "TS不难，JS才难"
 author: "大漠穷秋"
 comments: true
 date:   2017-08-07 08:40:55 +0800
-category: "web前端"
+category: "1-web"
 published: true
 excerpt: TS不难，JS才难
 ---

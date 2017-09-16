@@ -4,7 +4,7 @@ title:  "5-选择一款你喜欢的Markdown编辑器"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-04 10:19:10 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 published: true
 excerpt: 选择一款你喜欢的Markdown编辑器，强烈推荐使用VS Code
 ---

@@ -4,7 +4,7 @@ title:  "1-前置知识"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-02 15:35:29 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 excerpt: 利用Github和Jekyll搭建免费个人Blog所需要的前置知识
 ---
 

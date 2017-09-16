@@ -4,7 +4,7 @@ title:  "6-提交第一篇文章"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-04 10:44:24 +0800
-category: "文科生都能读懂的Jekyll中文教程"
+category: "Jekyll"
 published: true
 excerpt: 利用Jekyll编写第一篇文章，并推送到Github。
 ---
