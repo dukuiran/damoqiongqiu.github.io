@@ -5,7 +5,7 @@ author: "大漠穷秋"
 comments: false
 date:   2017-08-13 07:57:18 +0800
 category: "1-web"
-published: true
+published: false
 excerpt: NG1701课程说明
 ---
 很抱歉，人有点儿多，你们发的消息我都看到了，但是我不能一个一个去跟你们聊天儿，那样我就没时间干活儿了，所以写个总结帖放在这里。
