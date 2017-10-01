@@ -31,3 +31,15 @@ excerpt: NG1702课程说明
 <img src="{{ "/assets/img/2017-08-15/1.png" | relative_url }}" alt="1" max-width="100%" class="img-thumbnail rounded"/>
 <img src="{{ "/assets/img/2017-08-15/2.png" | relative_url }}" alt="1" max-width="100%" class="img-thumbnail rounded"/>
 <img src="{{ "/assets/img/2017-08-15/3.png" | relative_url }}" alt="1" max-width="100%" class="img-thumbnail rounded"/>
+
+本课程对应的示例项目列表：
+
+1. https://gitee.com/mumu-osc/learn-component
+1. https://gitee.com/mumu-osc/learn-directive
+1. https://gitee.com/mumu-osc/learn-router
+1. https://gitee.com/mumu-osc/learn-module
+1. https://gitee.com/mumu-osc/learn-form
+1. https://gitee.com/mumu-osc/learn-service
+1. https://gitee.com/mumu-osc/learn-test
+1. https://gitee.com/mumu-osc/learn-webpack
+1. https://github.com/damoqiongqiu/angular-seo
