@@ -36,6 +36,7 @@ excerpt: Angular优质学习资源收集
 - JHipster：一个集成了SpringMVC的开源项目，从前端到后端都集成好的，Java开发者应该会喜欢它，https://jhipster.github.io/
 - NiceFish（美人鱼）：这是一个系列项目，全面演示了Angular最新版本的各种用法，从桌面端到移动端都有demo，http://git.oschina.net/mumu-osc/NiceFish
 - 一款基于Ionic3的医院挂号系统：https://github.com/stewchicken/hospital-booking
+- 一款版聊系统，Angular+SocketIO：http://www.drrr.website:5000/login
 
 ### 视频教程类
 
