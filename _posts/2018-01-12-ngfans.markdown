@@ -11,6 +11,6 @@ excerpt: 中文Angular开发者论坛-新版本上线
 
 各种群内的消息数量太多，有价值的内容会被冲掉。
 
-大家有Angular相关的问题或者文章都可以发到社区上，指不定能帮助到其他开发者，http://www.ngfans.net 。
+大家有Angular相关的问题或者文章都可以发到社区上，指不定能帮助到其他开发者，<a href="http://www.ngfans.net" target="_blank">http://www.ngfans.net</a> 。
 
 域名和空间是大漠自己花钱买的，大漠会自己长期维护它。
