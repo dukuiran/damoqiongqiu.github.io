@@ -27,11 +27,11 @@ excerpt: 【有演示】再来一个简单清晰的Angular管理后台型模板�
 
 ### 演示地址
 
-在阿里云上的演示地址 http://47.104.80.251:4200
+在阿里云上的演示地址：<a href="http://47.104.80.251:4200" target="_blank">http://47.104.80.251:4200</a>
 
 （自己掏钱买的一台小ECS，配置差，您担待！）
 
 ### 来一起搞
 你可以拿过去随意使用，如果有能力，来一起搞点事情。
 
-链接在这里：https://gitee.com/mumu-osc/OpenWMS-Frontend
+链接在这里：：<a href="https://gitee.com/mumu-osc/OpenWMS-Frontend" target="_blank">https://gitee.com/mumu-osc/OpenWMS-Frontend</a>
