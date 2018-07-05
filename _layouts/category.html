@@ -1,9 +1,24 @@
---- layout: default --- {% assign rawcats = "" %} {% for post in site.posts %} {% assign tcats = post.category | join:'|'
-| append:'|' %} {% assign rawcats = rawcats | append:tcats %} {% endfor %} {% assign rawcats = rawcats | split:'|' | sort
-%} {% assign cats = "" %} {% for cat in rawcats %} {% if cat != "" %} {% if cats == "" %} {% assign cats = cat | split:'|'
-%} {% endif %} {% unless cats contains cat %} {% assign cats = cats | join:'|' | append:'|' | append:cat | split:'|' %} {%
-endunless %} {% endif %} {% endfor %}
+--- 
+layout: default 
+---
+{% assign rawcats = "" %}
+{% for post in site.posts %}
+  {% assign tcats = post.category | join:'|' | append:'|' %}
+  {% assign rawcats = rawcats | append:tcats %}
+{% endfor %}
 
+{% assign rawcats = rawcats | split:'|' | sort %}
+{% assign cats = "" %}
+{% for cat in rawcats %}
+  {% if cat != "" %}
+  {% if cats == "" %}
+    {% assign cats = cat | split:'|' %}
+  {% endif %}
+  {% unless cats contains cat %}
+    {% assign cats = cats | join:'|' | append:'|' | append:cat | split:'|' %}
+  {% endunless %}
+  {% endif %}
+{% endfor %}
 
 <div class="row">
   <div class="col-md-9">
@@ -33,6 +48,15 @@ endunless %} {% endif %} {% endfor %}
     </div>
   </div>
   <div class="col-md-3">
+    <div class="list-group">
+      <a href="#" class="list-group-item active">
+        联系我
+      </a>
+      <a href="https://github.com/damoqiongqiu" class="list-group-item" target="_blank">GitHub</a>
+      <a href="http://git.oschina.net/mumu-osc/NiceFish" class="list-group-item" target="_blank">码云</a>
+      <a href="https://zhuanlan.zhihu.com/damoqiongqiu" class="list-group-item" target="_blank">知乎专栏</a>
+      <a href="http://weibo.com/damoqiongqiu" class="list-group-item" target="_blank">微博</a>
+    </div>
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" width="100%" src="assets/img/1501835785816.png" alt="Card image cap">
       <div class="card-block">
