@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "大漠老师，我拿到了8个offer，该怎么选择？"
+title:  "我拿到了8个offer，该怎么选择？"
 author: "大漠穷秋"
 comments: true
 date:   2018-11-12 07:11:11 +0800
 category: "1-web"
 published: true
-excerpt: 大漠老师，我拿到了8个offer，该怎么选择？
+excerpt: 我拿到了8个offer，该怎么选择？
 ---
 
 【题图】
 
-## 大漠老师，我拿到了8个offer，该怎么选择？
+## 我拿到了8个offer，该怎么选择？
 
 周六在外面玩儿，突然收到一条信息：大老师好，终于加到你了，我有一个紧急的问题想请教。我现在手上有8个offer，不知道如何选择，想请大老师指导指导。
 
